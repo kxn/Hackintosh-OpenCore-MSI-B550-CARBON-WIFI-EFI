@@ -19,4 +19,4 @@ All credits go to https://github.com/ybakiame/Hackintosh-Opencore-MAG-MSI--B550M
 | OS Disk(nvme)    | AppleSME 256G(from old mb) |
 
 
-![BigSur](BigSur.png)
+![BigSur](BigSur.jpg)
